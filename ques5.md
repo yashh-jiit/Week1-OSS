@@ -1,3 +1,5 @@
+Link Repo - https://github.com/BaseMax/TinyCalculator/tree/master
+
 The **parseAddition**, **parseSubtraction**, **parseMultiplication**, and **parseDivision** functions prompt the user to enter two float values and perform the respective arithmetic operations (addition, subtraction, multiplication, and division). The result of each operation is printed to the console, with a check to avoid division by zero in the division function.
 
 The **parseExponentiation** function asks the user for a float base and an integer exponent, then calculates the base raised to the power of the exponent using the `pow` function, and prints the result. The **parseSquareRoot** function prompts for a single float value, computes its square root using the `sqrt` function, and displays the result.
